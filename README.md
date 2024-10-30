@@ -18,5 +18,5 @@ This is a simple graphical user interface (GUI) calculator built using Python's 
 1. **Clone the repository** (if hosted on a platform like GitHub):
    
    ```sh
-   git clone https://github.com/yourusername/gui_calculator.git
+   git clone https://github.com/DreaMBG/gui_calculator.git
    cd gui_calculator
